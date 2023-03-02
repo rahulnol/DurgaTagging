@@ -1,0 +1,2 @@
+This is first line in c2.txt.
+This is second line in c2.txt.
